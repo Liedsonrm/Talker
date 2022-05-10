@@ -11,14 +11,4 @@ app.use(router)
 
 
 
-
-
-
-
-
-
-
-
-
-
-app.listen(8800, () => console.log("-> Server running on port 8000"))
+app.listen(5000, () => console.log("-> Server running on port 8000"))
